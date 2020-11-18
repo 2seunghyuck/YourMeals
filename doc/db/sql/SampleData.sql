@@ -1,4 +1,4 @@
--- 전체조회(25) 하이
+-- 전체조회(25)
 select * from oi_user;
 select * from oi_recipe;
 select * from oi_order;
